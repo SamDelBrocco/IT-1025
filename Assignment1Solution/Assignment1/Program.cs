@@ -17,7 +17,7 @@
             bool canVote;
 
             double heightInches;
-            double totalHeight;
+            double totalHeightCM;
 
 
 
@@ -34,7 +34,7 @@
             heightFeet = int.Parse(System.Console.ReadLine());
 
             System.Console.Write("How many inches beyond your base height in feet are you? ");
-            heightInches = int.Parse(System.Console.ReadLine());
+            heightInches = double.Parse(System.Console.ReadLine());
 
             System.Console.Write("What is your age? ");
             age = int.Parse(System.Console.ReadLine());
@@ -44,10 +44,11 @@
 
             fullName = firstName + " " + middleInitial + " " + lastName ;
             canVote = (age >= 18) && isCitizen && true;
+            totalHeightCM = ((heightFeet * 12) + (heightInches * 2.54));
 
 
             System.Console.WriteLine("Your full name is " + fullName + ".");
-            System.Console.WriteLine("Your total height in CM is " + ((heightFeet * 12) + (heightInches * 2.54)));
+            System.Console.WriteLine("Your total height in CM is " + totalHeightCM);
             System.Console.WriteLine(fullName + " can vote " + canVote);
             System.Console.WriteLine("Press any key to continue...");
             System.Console.ReadKey();
