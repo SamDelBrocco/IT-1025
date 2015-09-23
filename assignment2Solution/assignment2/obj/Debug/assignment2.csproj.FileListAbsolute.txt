@@ -1,0 +1,2 @@
+C:\Users\Cindi\Desktop\assignment2Solution\assignment2\bin\Debug\assignment2.exe.config
+C:\Users\Cindi\Desktop\assignment2Solution\assignment2\obj\Debug\assignment2.csprojResolveAssemblyReference.cache
