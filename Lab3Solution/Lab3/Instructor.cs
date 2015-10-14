@@ -2,27 +2,26 @@
 {
     class Instructor
     {
-        private string FirstName;
-        private string LastName;
+        private string Name;
         private string CourseName;
 
-        public Instructor(string theirFirstName, string theirLastName, string theirCourseName)
+        public Instructor(string name, string courseName)
         {
-            this.FirstName = theirFirstName;
-            this.LastName = theirLastName;
-            this.CourseName = theirCourseName;
+            this.Name = name;
+            this.CourseName = courseName;
         }
 
-        public string SetStudentGrade()
+        public string ProfInfo()
         {
-
+            return "professor " + this.Name + " who teaches " + this.CourseName;
         }
-
-        public void Print()
+        
+        public void SetStudentGrade(Student student, int grade)
         {
-
+            student.SetGrade(grade);
         }
-
+        
+       
 
     }
 }

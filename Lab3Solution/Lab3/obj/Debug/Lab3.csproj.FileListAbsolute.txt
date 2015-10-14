@@ -1,1 +1,7 @@
 C:\Users\Cindi\Desktop\Lab3Solution\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Cindi\Desktop\IT-1050\Lab3Solution\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Cindi\Desktop\IT-1050\Lab3Solution\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
+C:\Users\Cindi\Desktop\IT-1050\Lab3Solution\Lab3\bin\Debug\Lab3.exe
+C:\Users\Cindi\Desktop\IT-1050\Lab3Solution\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Cindi\Desktop\IT-1050\Lab3Solution\Lab3\obj\Debug\Lab3.exe
+C:\Users\Cindi\Desktop\IT-1050\Lab3Solution\Lab3\obj\Debug\Lab3.pdb
