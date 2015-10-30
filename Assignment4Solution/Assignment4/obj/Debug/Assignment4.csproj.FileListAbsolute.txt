@@ -1,0 +1,12 @@
+C:\Users\Cindi\Desktop\Assignment4Solution\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\Cindi\Desktop\Assignment4Solution\Assignment4\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
+C:\Users\Cindi\Desktop\Assignment4Solution\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\Cindi\Desktop\Assignment4Solution\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\Cindi\Desktop\Assignment4Solution\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\Cindi\Desktop\Assignment4Solution\Assignment4\obj\Debug\Assignment4.pdb
+C:\Users\Cindi\Desktop\IT-1050\Assignment4Solution\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\Cindi\Desktop\IT-1050\Assignment4Solution\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\Cindi\Desktop\IT-1050\Assignment4Solution\Assignment4\obj\Debug\Assignment4.pdb
+C:\Users\Cindi\Desktop\IT-1050\Assignment4Solution\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\Cindi\Desktop\IT-1050\Assignment4Solution\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\Cindi\Desktop\IT-1050\Assignment4Solution\Assignment4\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
