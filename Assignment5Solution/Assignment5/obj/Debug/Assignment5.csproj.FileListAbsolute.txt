@@ -1,0 +1,6 @@
+C:\Users\Cindi\Desktop\Assignment5Solution\Assignment5\bin\Debug\Assignment5.exe.config
+C:\Users\Cindi\Desktop\Assignment5Solution\Assignment5\bin\Debug\Assignment5.exe
+C:\Users\Cindi\Desktop\Assignment5Solution\Assignment5\bin\Debug\Assignment5.pdb
+C:\Users\Cindi\Desktop\Assignment5Solution\Assignment5\obj\Debug\Assignment5.csprojResolveAssemblyReference.cache
+C:\Users\Cindi\Desktop\Assignment5Solution\Assignment5\obj\Debug\Assignment5.exe
+C:\Users\Cindi\Desktop\Assignment5Solution\Assignment5\obj\Debug\Assignment5.pdb
