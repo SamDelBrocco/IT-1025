@@ -2,19 +2,9 @@
 {
     class Course
     {
-        public static string Name;
-        public static int CRN;
-        public static string PrintCourse;
+        public string Name;
+        public int CRN;
+        public Student[] Students;
 
-        public void GatherCourseInfo()
-        {
-            Name = Question.AskForString(" What is the course name? ");
-            CRN = Question.AskForInt(" What is the course number? ");
-        }
-        
-        public string Print()
-        {
-            return " Course Name and Number: " + Name + " " + CRN;
-        }
     }
 }

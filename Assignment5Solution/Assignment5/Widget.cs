@@ -2,9 +2,9 @@
 {
     class Widget
     {
-        private int _id;
-        public int GetID() { return _id; }
-        public void SetID(int id) { _id = id; }
+        private string _id;
+        public string GetID() { return _id; }
+        public void SetID(string id) { _id = id; }
 
         private string _description;
         public string GetDescription() { return _description; }
@@ -12,7 +12,7 @@
 
         public void Print()
         {
-            System.Console.WriteLine(this.GetDescription() + " " + this.GetID());
+            System.Console.WriteLine( " " + this.GetID() + " " + this.GetDescription());
         }
     }
 }
