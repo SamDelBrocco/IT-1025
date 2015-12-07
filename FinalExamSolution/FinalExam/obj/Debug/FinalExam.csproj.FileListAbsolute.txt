@@ -1,0 +1,6 @@
+C:\Users\Cindi\Desktop\FinalExamSolution\FinalExam\bin\Debug\FinalExam.exe.config
+C:\Users\Cindi\Desktop\FinalExamSolution\FinalExam\bin\Debug\FinalExam.exe
+C:\Users\Cindi\Desktop\FinalExamSolution\FinalExam\bin\Debug\FinalExam.pdb
+C:\Users\Cindi\Desktop\FinalExamSolution\FinalExam\obj\Debug\FinalExam.csprojResolveAssemblyReference.cache
+C:\Users\Cindi\Desktop\FinalExamSolution\FinalExam\obj\Debug\FinalExam.exe
+C:\Users\Cindi\Desktop\FinalExamSolution\FinalExam\obj\Debug\FinalExam.pdb
